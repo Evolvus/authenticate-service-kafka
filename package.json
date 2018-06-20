@@ -1,0 +1,21 @@
+{
+  "name": "kafka-authentication-sample",
+  "version": "0.0.1",
+  "description": "Authentication via Kafka topic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kafka",
+    "node",
+    "authentication"
+  ],
+  "author": "Shriman Nijagun",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "kafka-node": "^2.6.1",
+    "stream": "0.0.2"
+  }
+}
